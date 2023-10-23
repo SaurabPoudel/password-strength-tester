@@ -1,2 +1,2 @@
 # password-strength-tester
-Password Strength Tester 
+Password Strength Tester (created after learning regex)
